@@ -4,7 +4,9 @@ a tool to trend your project on Dextools.io using python and proxies
 <p align="center"><a href="https://www.youtube.com/watch?v=QABxf1Uqtls&t=108s" target="_blank"><img src="https://github.com/Dev-Trending-Tools99/Dextools-Trending-Bot/blob/main/Thumbnail.jpg?raw=true"></a></p>
 
 # Dextools-Trending-Bot
-a tool to trend your project on Dextools.io using python software 
+a tool to trend your project on Dextools.io using python software and Rotating Residential Proxies
+
+NOTE : You can't use this bot by just downloading from github, contact me and get the ZIP Password to unlock and use it.
 
 ## Installation and Requirements
 
